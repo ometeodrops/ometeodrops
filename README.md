@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning how to develop user friendly ui/ux
 - 💞️ I’m looking to collaborate on blockchain and mobile gaming software development.
 - 📫 Contact me at: ometeodrops@protonmail.com
-                      ometeodrops.com
+-   ometeodrops.com
+                    
 
 <!---
 ometeodrops/OmeteoDROPS is developing an interactive game where people hunt real life functional NFTs. Our focus is on Culture shifting individuals and events.
